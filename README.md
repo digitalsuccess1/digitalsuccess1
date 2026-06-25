@@ -120,7 +120,3 @@ GitHub: [digitalsuccess1](https://github.com/digitalsuccess1)
 ## Motto
 
 "Learn. Build. Document. Improve. Repeat."
-
-
-- ⚡ Fun fact: ...
--->
