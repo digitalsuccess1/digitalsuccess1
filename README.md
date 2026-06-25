@@ -38,7 +38,7 @@ Current platform:
 
 ### Programming
 
-* Python (Learning)
+* Python
 * Git
 * GitHub
 
